@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "category": "basicweb",
+    "image":"portfolio",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Web Projects",
+    "desc": "A simple websites are develop using Html5, CSS3 and BootStrap.",
+    "category": "basicweb",
+    "image":"web",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Python Projects",
+    "desc": "A Simple Chess game which is I developed using python",
+    "category": "python",
+    "image":"python",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Android Projects",
+    "desc": "Here  are some Android Projects which I build using java and kotlin.",
+    "image": "andriod",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "CPP Projects",
+    "desc": "There is some cpp projects are there!",
+    "image":"cpp",
+    "category": "cpp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
